@@ -1,5 +1,5 @@
 name: eShopOnWeb Build and Test
-
+param sku string = 'S1' // The SKU of App Service Plan
 #Triggers (uncomment line below to use it)
 #on: [push, pull_request, workflow_dispatch]
 
